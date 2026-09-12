@@ -6,7 +6,7 @@ topics:
   - obsidian
   - selfhosted
   - cloudflare
-published: false
+published: true
 modified: 2026-09-13T01:44:45+09:00
 ---
 # Obsidianのリアルタイム同期プラグイン「Synch（Synchrun）」が想像以上に完成度高かった話
